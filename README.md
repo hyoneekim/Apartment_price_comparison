@@ -1,4 +1,4 @@
-# Apartment_price_comparison
+# Apartment price comparison
 Price comparison of apartments in Seoul, South Korea and Helsinki, Finland
 
 ![Figure_1](https://user-images.githubusercontent.com/97020327/148828943-4e53037f-cce7-4fa9-9994-41d199bded44.png)
